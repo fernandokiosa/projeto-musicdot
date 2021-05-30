@@ -1,0 +1,26 @@
+p {
+    color: blue;
+    background-color: yellow;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #3d3d3d;
+}
+
+h1 {
+    background-color: #e1edf2;
+}
+
+h2 {
+ border-bottom: 3px solid red;   
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    color: lightgrey;
+}
