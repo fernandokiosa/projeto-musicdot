@@ -28,3 +28,11 @@ figure {
 figcaption {
     margin-top: 10px;
 }
+
+ul {
+  list-style-type: circle; 
+}
+
+ol {
+    list-style-type: lower-alpha;
+}
