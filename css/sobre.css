@@ -7,12 +7,16 @@ body {
 
 }
 
-h1 {
-    background-color: #e1edf2;
+.titulo {
     padding: 10px;
+
+    font-size: 32px;
+
+    background-color: #e1edf2;
+    
 }
 
-h2 {
+.titulo {
     border-bottom: 2px solid black;
 }
 
@@ -27,6 +31,15 @@ figure {
 
 figcaption {
     margin-top: 10px;
+}
+
+.contato_subtitulo {
+    display: inline;
+}
+
+.contato_info {
+    margin: 16px 0 24px;
+    padding-left: 32px;
 }
 
 .matriz-musicdot {
