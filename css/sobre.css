@@ -34,7 +34,7 @@ figcaption {
 }
 
 .contato_subtitulo {
-    display: inline;
+    display: inline-block;
 }
 
 .contato_info {
