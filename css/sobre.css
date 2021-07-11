@@ -13,6 +13,7 @@ body {
     font-size: 32px;
 
     background-color: #e1edf2;
+    margin-left: 25p;
     
 }
 
@@ -51,6 +52,7 @@ figcaption {
 .familia-tupfeln {
     width: 275px;
     float: right;
+    margin-left: auto;
 }
 
 figure img {
@@ -62,4 +64,8 @@ ul {
 
 ol {
     list-style-type: lower-alpha;
+}
+
+h1.titulo {
+    margin-left: 15px;
 }
